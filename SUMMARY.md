@@ -20,4 +20,6 @@
 * [Долги](sorry_you_lost.md)
 * [ИСУ и ЦДО](isu_de.md)
 * [Общежития](dorm.md)
-* [Список направлений](study.md)
+* [Список направлений](programs.md)
+** [Отзывы - МФ КТУ](programs/ktu.md)
+** [Отзывы - МФ ТИнТ](programs/tint.md)
