@@ -21,5 +21,5 @@
 * [ИСУ и ЦДО](isu_de.md)
 * [Общежития](dorm.md)
 * [Список направлений](programs.md)
-** [Отзывы - МФ КТУ](programs/ktu.md)
-** [Отзывы - МФ ТИнТ](programs/tint.md)
+	* [Отзывы - МФ КТУ](programs/ktu.md)
+	* [Отзывы - МФ ТИнТ](programs/tint.md)
