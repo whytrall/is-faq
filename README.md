@@ -10,4 +10,10 @@
 
 Основная версия сайта находится по адресу [itmofaq.trall.co](https://itmofaq.trall.co).
 
-Спасибо всем, кто принял участие в написании всего этого дела: [InRedikaWB](https://github.com/InRedikaWB), [YogurtTheHorse](https://github.com/YogurtTheHorse), [whytrall](https://github.com/whytrall), [Orfac](https://github.com/Orfac), [kr3v3d](https://github.com/kr3v3d).
+Спасибо всем, кто принял участие в написании всего этого дела:
+- [InRedikaWB](https://github.com/InRedikaWB)
+- [YogurtTheHorse](https://github.com/YogurtTheHorse)
+- [whytrall](https://github.com/whytrall)
+- [Orfac](https://github.com/Orfac)
+- [kr3v3d](https://github.com/kr3v3d)
+- [Лиза](https://vk.com/khor.elizaveta) и [Адаптеры](https://vk.com/adapteritmo)
