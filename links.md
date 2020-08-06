@@ -19,8 +19,8 @@
 - https://t.me/itmoktu - новостной канал КТУ
 - https://t.me/itmoconf - чат созданный студентами для студентов
 
-
-https://play.google.com/store/apps/details?id=ru.ifmo.itmostudents - Основное приложение для Андроида
-https://play.google.com/store/apps/details?id=com.bukhmastov.cdoitmo - Еще одно приложение для Андроида
-https://apps.apple.com/ru/app/itmo-students - Всё в одном для Яблока
-https://vk.com/itmo_exchange - Об академической мобильности и семестровом обмене.
+Различные приложения для взаимодействия с ИТМО:
+- https://play.google.com/store/apps/details?id=ru.ifmo.itmostudents - Основное приложение для Андроида
+- https://play.google.com/store/apps/details?id=com.bukhmastov.cdoitmo - Еще одно приложение для Андроида
+- https://apps.apple.com/ru/app/itmo-students - Всё в одном для Яблока
+- https://vk.com/itmo_exchange - Об академической мобильности и семестровом обмене.
