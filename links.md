@@ -13,6 +13,7 @@
 - https://vk.com/kronbars - Кронверкские барсы - всё о спорте, секциях и соревнованиях
 - https://kronbars.itmo.ru/ - Тоже барсы, но по другому
 - https://vk.com/english_ifmo - Английский в универе - собственно, всё о занятиях английским, международных проектах, студенческом обмене
+- https://vk.com/itmo_exchange - Об академической мобильности и семестровом обмене.
 
 А еще есть некоторые источники, куда информацию закидывают студенты:
 - https://t.me/itmo_is - новостной канал направления 09.03.02
@@ -23,4 +24,3 @@
 - https://play.google.com/store/apps/details?id=ru.ifmo.itmostudents - Основное приложение для Андроида
 - https://play.google.com/store/apps/details?id=com.bukhmastov.cdoitmo - Еще одно приложение для Андроида
 - https://apps.apple.com/ru/app/itmo-students - Всё в одном для Яблока
-- https://vk.com/itmo_exchange - Об академической мобильности и семестровом обмене.
