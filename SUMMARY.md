@@ -2,16 +2,13 @@
 
 * [Главная страница](README.md)
 * [Вопрос-ответ](qa.md)
-* [У кого что спросить](department.md)
-* [Полезные ссылки](links.md)
+* [У кого что спросить](kb/department.md)
+* [Полезные ссылки](kb/links.md)
 
 ## До учебы
 
-* [Распределительный тест](entry_test.md)
-
-## Внеучебная деятельность
-
-* [Клубы](clubs.md)
+* [Распределительный тест](study/entry_test.md)
+* [Список направлений](programs/programs.md)
 
 ## Учеба
 
@@ -20,12 +17,13 @@
 * [Стипендия](study/grants.md)
 * [Переводы](study/transfer.md)
 
+## Внеучебная деятельность
+
+* [Клубы](kb/clubs.md)
+
 ## Жизнь в университете
 
 * [ИСУ и ЦДО](other/isu_de.md)
 * [Общежития](other/dorm.md)
-* [Список направлений](programs.md)
-	* [Отзывы - МФ КТУ](programs/ktu.md)
-	* [Отзывы - МФ ТИнТ](programs/tint.md)
 * [Военная кафедра, военный учет](other/army.md)
-* [Для иностранцев](foreigner.md)
+* [Для иностранцев](other/foreigner.md)
