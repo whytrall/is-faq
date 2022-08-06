@@ -15,7 +15,6 @@
 * [Оценивание](study/evaluation.md)
 * [Сессия, долги, отчисление](study/session.md)
 * [Стипендия](study/grants.md)
-* [Переводы](study/transfer.md)
 
 ## Внеучебная деятельность
 
@@ -24,7 +23,7 @@
 
 ## Жизнь в университете
 
-* [ИСУ и ЦДО](other/isu_de.md)
+* [my.itmo, ИСУ, ЦДО и Барс](other/isu_de.md)
 * [Общежития](other/dorm.md)
 * [Военная кафедра, военный учет](other/army.md)
 * [Для иностранцев](other/foreigner.md)
