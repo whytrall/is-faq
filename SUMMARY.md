@@ -20,6 +20,7 @@
 
 * [Клубы](kb/clubs.md)
 * [Места для бота](other/coworking.md)
+* [Возможности и скидки](other/posibilities.md)
 
 ## Жизнь в университете
 
