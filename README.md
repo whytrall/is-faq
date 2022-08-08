@@ -1,6 +1,6 @@
 # Главная страница
 
-![клевая картинка с Гарольдом, йей!](хуйня.jpg)
+![клевая картинка с Гарольдом, йей!](cover.jpg)
 
 **Добро пожаловать в ИТМО!** Если вы читаете это предложение, то это значит, что вы поступили в самый клевый университет, хотите узнать что-то новое о своем вузе (или освежить знания) или по каким-то неизвестным причинам зашли сюда.
 
@@ -11,9 +11,9 @@
 Основная версия сайта находится по адресу [is-faq.trall.co](https://is-faq.trall.co).
 
 Спасибо всем, кто принял участие в написании всего этого дела:
-- [InRedikaWB](https://github.com/eminbegin)
-- [YogurtTheHorse](https://github.com/eminbegin)
+- [InRedikaWB](https://github.com/InRedikaWB)
+- [YogurtTheHorse](https://github.com/YogurtTheHorse)
 - [whytrall](https://github.com/whytrall)
-- [Orfac](https://github.com/eminbegin)
-- [kr3v3d](https://github.com/eminbegin)
-- [Лиза](https://vk.com/eminbegin) и [Адаптеры](https://vk.com/eminbegin)
+- [Orfac](https://github.com/Orfac)
+- [kr3v3d](https://github.com/kr3v3d)
+- [Лиза](https://vk.com/khor.elizaveta) и [Адаптеры](https://vk.com/adapteritmo)
