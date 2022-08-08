@@ -11,7 +11,7 @@
 * [Список направлений](programs/programs.md)
 
 ## Учеба
-
+* [Учебная деятельность](study/educational_process.md)
 * [Оценивание](study/evaluation.md)
 * [Сессия, долги, отчисление](study/session.md)
 * [Стипендия](study/grants.md)
