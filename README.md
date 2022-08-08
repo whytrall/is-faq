@@ -1,19 +1,19 @@
 # Главная страница
 
-![клевая картинка с Гарольдом, йей!](cover.jpg)
+![клевая картинка с Гарольдом, йей!](хуйня.jpg)
 
 **Добро пожаловать в ИТМО!** Если вы читаете это предложение, то это значит, что вы поступили в самый клевый университет, хотите узнать что-то новое о своем вузе (или освежить знания) или по каким-то неизвестным причинам зашли сюда.
 
 Слева расположены ссылки, по которым смело можно переходить. **Не нашли сбоку то, что искали?** Попробуйте [список вопросов и ответов](qa.md)! Вполне возможно, что вы найдете нужную страницу именно там.
 
-Уже учитесь в ИТМО и хотите помочь писать этот FAQ? Это очень круто! Вам лишь только нужно немного знать Git. Переходите на [github.com/whytrall/itmo-faq](https://github.com/whytrall/itmo-faq) и отправляйте пулл-реквесты! Если что-то непонятно, можете смело написать [@trall](https://t.me/trall) в телеграме.
+Уже учитесь в ИТМО и хотите помочь писать этот FAQ? Это очень круто! Вам лишь только нужно немного знать Git. Переходите на [github.com/whytrall/is-faq](https://github.com/whytrall/is-faq) и отправляйте пулл-реквесты! Если что-то непонятно, можете смело написать [@trall](https://t.me/trall) в телеграме.
 
-Основная версия сайта находится по адресу [itmofaq.trall.co](https://itmofaq.trall.co).
+Основная версия сайта находится по адресу [is-faq.trall.co](https://is-faq.trall.co).
 
 Спасибо всем, кто принял участие в написании всего этого дела:
-- [InRedikaWB](https://github.com/InRedikaWB)
-- [YogurtTheHorse](https://github.com/YogurtTheHorse)
+- [InRedikaWB](https://github.com/eminbegin)
+- [YogurtTheHorse](https://github.com/eminbegin)
 - [whytrall](https://github.com/whytrall)
-- [Orfac](https://github.com/Orfac)
-- [kr3v3d](https://github.com/kr3v3d)
-- [Лиза](https://vk.com/khor.elizaveta) и [Адаптеры](https://vk.com/adapteritmo)
+- [Orfac](https://github.com/eminbegin)
+- [kr3v3d](https://github.com/eminbegin)
+- [Лиза](https://vk.com/eminbegin) и [Адаптеры](https://vk.com/eminbegin)
