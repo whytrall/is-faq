@@ -12,7 +12,7 @@
 * [Список направлений](programs/programs.md)
 
 ## Учеба
-
+* [Учебная деятельность](study/educational_process.md)
 * [Оценивание](study/evaluation.md)
 * [Сессия, долги, отчисление](study/session.md)
 * [Стипендия](study/grants.md)
@@ -21,6 +21,7 @@
 
 * [Клубы](kb/clubs.md)
 * [Места для бота](other/coworking.md)
+* [Возможности и скидки](other/posibilities.md)
 
 ## Жизнь в университете
 
