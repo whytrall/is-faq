@@ -20,7 +20,7 @@
 
 * [**ML Sect**](https://github.com/mlsect-dojo/Main) - секта машинных обучателей
 
-* [**WebSect**](https://github.com/websect-itmo/FAQ) - секта разностековых веб-разработчиков
+* [**WebSect**](https://github.com/websect-dev) - секта разностековых веб-разработчиков
 
 * [**Приплюснутые**](https://github.com/CodingPenguinParty/kernel/blob/master/README.md) - секта любителей C++
 
