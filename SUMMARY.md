@@ -26,6 +26,7 @@
 ## Жизнь в университете
 
 * [my.itmo, ИСУ, ЦДО и Барс](other/isu_de.md)
+* [Локации](kb/locations.md)
 * [Общежития](other/dorm.md)
 * [Военная кафедра, военный учет](other/army.md)
 * [Для иностранцев](other/foreigner.md)
