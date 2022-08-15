@@ -10,7 +10,7 @@
 
 Основная версия сайта находится по адресу [is-faq.trall.co](https://is-faq.trall.co).
 
-Внесли вклад в обновление FAQ'a:
+Спасибо всем, кто принял участие в написании всего этого дела:
 - [whytrall](https://github.com/whytrall)
 - [I-SER-I](https://github.com/I-SER-I)
 - [1Menemi1](https://github.com/1Menemi1)
@@ -23,3 +23,4 @@
 - [pllenxx](https://github.com/pllenxx)
 - [Mindtable](https://github.com/Mindtable)
 - [sashafromlibertalia](https://github.com/sashafromlibertalia)
+- [Адаптеры](https://vk.com/adapteritmo)
