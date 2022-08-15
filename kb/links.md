@@ -16,7 +16,10 @@
 - [vk.com/kronbars](https://vk.com/kronbars), [kronbars.itmo.ru](https://kronbars.itmo.ru/) - Кронверкские барсы - всё о спорте, секциях и соревнованиях
 - [vk.com/fltc.itmo](https://vk.com/fltc.itmo) - английский в универе - собственно, всё о занятиях английским, международных проектах, студенческом обмене
 - [vk.com/itmo_exchange](https://vk.com/itmo_exchange) - об академической мобильности и семестровом обмене.
-- [vk.com/@itmohome-guide](https://m.vk.com/@itmohome-guide) - гайд для Вязьмы
+- [vk.com/itmohome](https://vk.com/itmohome) - группа ВК Вяземского студгородка (Вяземский, д. 5/7)
+- [vk.com/lensv23](https://vk.com/lensv23) - группа ВК Общежития №2 (Ленсовета, д. 23)
+- [vk.com/alp15k2_itmo](https://vk.com/alp15k2_itmo) - группа ВК Общежития №3 (Альпийский пер., д.15)
+- [vk.com/stud_sovet_b6](https://vk.com/stud_sovet_b6) - группа ВК Общежития №4 (Белорусская, д. 6)
 
 ### А еще есть некоторые источники, куда информацию закидывают студенты:
 - [Объявления ИС](https://t.me/itmo_is) - новостной канал направления 09.03.02
