@@ -12,9 +12,9 @@
 - [isu.ifmo.ru](https://isu.ifmo.ru) - ИСУ - информационный портал ВУЗа, там есть ВООБЩЕ всё, надо только поискать
 - [vk.com/itmoru](https://vk.com/itmoru) - основная группа ВК - все новости и основная информация
 - [vk.com/itmostudents](https://vk.com/itmostudents) - ITMO Students - ключевая инфа, касающаяся студенчества, а также всё о скидках, преференциях, конкурсах и мероприятиях
-- [vk.com/mb.news](https://vk.com/mb.news) - мегабайт - классные статьи обо всём, иногда вакансии для тех, кто прошёл только в ИТМО, но всегда мечтал быть журналистом/фотографом
+- [vk.com/mb.news](https://vk.com/mb.news), [mbradio.ru](https://mbradio.ru) - мегабайт - классные статьи обо всём, иногда вакансии для тех, кто прошёл только в ИТМО, но всегда мечтал быть журналистом/фотографом
 - [vk.com/kronbars](https://vk.com/kronbars), [kronbars.itmo.ru](https://kronbars.itmo.ru/) - Кронверкские барсы - всё о спорте, секциях и соревнованиях
-- [vk.com/fltc.itmo](https://vk.com/fltc.itmo), [languages.itmo.ru/ru/](https://languages.itmo.ru/ru/) - английский в универе - собственно, всё о занятиях английским, международных проектах, студенческом обмене
+- [vk.com/fltc.itmo](https://vk.com/fltc.itmo), [languages.itmo.ru](https://languages.itmo.ru/ru/) - английский в универе - собственно, всё о занятиях английским, международных проектах, студенческом обмене
 - [vk.com/itmo_exchange](https://vk.com/itmo_exchange) - об академической мобильности и семестровом обмене.
 - [vk.com/itmohome](https://vk.com/itmohome) - группа ВК Вяземского студгородка (Вяземский, д. 5/7)
 - [vk.com/lensv23](https://vk.com/lensv23) - группа ВК Общежития №2 (Ленсовета, д. 23)
