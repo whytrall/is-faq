@@ -8,7 +8,7 @@
 
 ## До учебы
 
-* [Распределительный тест](study/entry_test.md)
+* [Распределительное тестирование](study/entry_test.md)
 
 ## Учеба
 * [Учебная деятельность](study/educational_process.md)
