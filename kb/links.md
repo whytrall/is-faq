@@ -12,10 +12,10 @@
 ## Полезная информация
 - [student.itmo.ru](https://student.itmo.ru/) - сайт студофиса. Достаточно полный и информативный портал о жизни университета и не только
 - [edu.ifmo.ru](http://edu.ifmo.ru/) - различная информация об образовании
-- [vk.com/itmostudents](https://vk.com/itmostudents) - ITMO Students - ключевая инфа, касающаяся студенчества, а также всё о скидках, преференциях, конкурсах и мероприятиях
 - [vk.com/itmo_fitip](https://vk.com/itmo_fitip) - группа Факультета ИТиП, там публикуется информация о стажировках и стипендиях для всех направлений ИТиП
+- [vk.com/itmostudents](https://vk.com/itmostudents) - ITMO Students - ключевая инфа, касающаяся студенчества, а также всё о скидках, преференциях, конкурсах и мероприятиях
 - [vk.com/kronbars](https://vk.com/kronbars), [kronbars.itmo.ru](https://kronbars.itmo.ru/) - Кронверкские барсы - всё о спорте, секциях и соревнованиях
-- [vk.com/fltc.itmo](https://vk.com/fltc.itmo) - английский в универе - собственно, всё о занятиях английским, международных проектах, студенческом обмене
+- [vk.com/fltc.itmo](https://vk.com/fltc.itmo), [languages.itmo.ru](https://languages.itmo.ru/ru/) - английский в универе - собственно, всё о занятиях английским, международных проектах, студенческом обмене
 
 ## Сервисы
 - [my.itmo.ru](https://my.itmo.ru) - сайт с расписанием и выборностью и в целом полезная вещь
@@ -24,9 +24,14 @@
 
 ## Внеучебное
 - [vk.com/itmoru](https://vk.com/itmoru) - основная группа ИТМО ВК: все новости и основная информация
-- [vk.com/mb.news](https://vk.com/mb.news) - мегабайт - классные статьи обо всём, иногда вакансии для тех, кто прошёл только в ИТМО, но всегда мечтал быть журналистом/фотографом
+- [vk.com/mb.news](https://vk.com/mb.news), [mbradio.ru](https://mbradio.ru) - мегабайт - классные статьи обо всём, иногда вакансии для тех, кто прошёл только в ИТМО, но всегда мечтал быть журналистом/фотографом
 - [vk.com/itmo_exchange](https://vk.com/itmo_exchange) - об академической мобильности и семестровом обмене.
-- [vk.com/@itmohome-guide](https://m.vk.com/@itmohome-guide) - гайд для Вязьмы
+
+## Общежития
+- [vk.com/itmohome](https://vk.com/itmohome) - группа ВК Вяземского студгородка (Вяземский, д. 5/7)
+- [vk.com/lensv23](https://vk.com/lensv23) - группа ВК Общежития №2 (Ленсовета, д. 23)
+- [vk.com/alp15k2_itmo](https://vk.com/alp15k2_itmo) - группа ВК Общежития №3 (Альпийский пер., д.15)
+- [vk.com/stud_sovet_b6](https://vk.com/stud_sovet_b6) - группа ВК Общежития №4 (Белорусская, д. 6)
 
 ## Студенческие 
 - [itmo.conf](https://t.me/itmoconf), [itmo.flood](https://t.me/itmoconf) - чаты, созданные студентами для студентов
