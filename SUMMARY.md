@@ -9,6 +9,7 @@
 ## До учебы
 
 * [Распределительное тестирование](study/entry_test.md)
+* [ITMO.ENTER](study/itmo_enter.md)
 
 ## Учеба
 * [Учебная деятельность](study/educational_process.md)
