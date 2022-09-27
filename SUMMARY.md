@@ -8,7 +8,8 @@
 
 ## До учебы
 
-* [Распределительный тест](study/entry_test.md)
+* [Распределительное тестирование](study/entry_test.md)
+* [ITMO.ENTER](study/itmo_enter.md)
 
 ## Учеба
 * [Учебная деятельность](study/educational_process.md)
@@ -25,6 +26,7 @@
 ## Жизнь в университете
 
 * [my.itmo, ИСУ, ЦДО и Барс](other/isu_de.md)
+* [Локации](kb/locations.md)
 * [Общежития](other/dorm.md)
 * [Военная кафедра, военный учет](other/army.md)
 * [Для иностранцев](other/foreigner.md)
