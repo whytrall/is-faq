@@ -13,7 +13,7 @@
 Спасибо всем, кто принял участие в написании всего этого дела:
 - [whytrall](https://github.com/whytrall)
 - [I-SER-I](https://github.com/I-SER-I)
-- [1Menemi1](https://github.com/1Menemi1)
+- [Menemi](https://github.com/Menemi)
 - [Eminbegin](https://github.com/Eminbegin)
 - [An-Vas](https://github.com/An-Vas)
 - [Var-S](https://github.com/Var-S)
