@@ -14,7 +14,7 @@ const config: Config = {
   projectName: 'is-faq',
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'throw',
 
   i18n: {
     defaultLocale: 'ru',
