@@ -10,17 +10,4 @@
 
 Основная версия сайта находится по адресу [faq.itmo.is](https://faq.itmo.is).
 
-Спасибо всем, кто принял участие в написании всего этого дела:
-- [whytrall](https://github.com/whytrall)
-- [I-SER-I](https://github.com/I-SER-I)
-- [Menemi](https://github.com/Menemi)
-- [Eminbegin](https://github.com/Eminbegin)
-- [An-Vas](https://github.com/An-Vas)
-- [Var-S](https://github.com/Var-S)
-- [pypkaed](https://github.com/pypkaed)
-- [DaddyDogs](https://github.com/DaddyDogs)
-- [dthema](https://github.com/dthema)
-- [pllenxx](https://github.com/pllenxx)
-- [Mindtable](https://github.com/Mindtable)
-- [sashafromlibertalia](https://github.com/sashafromlibertalia)
-- [Адаптеры](https://vk.com/adapteritmo)
+Спасибо [всем, кто принял участие](https://github.com/whytrall/is-faq/graphs/contributors) в написании всего этого дела
