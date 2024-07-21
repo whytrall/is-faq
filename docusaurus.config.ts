@@ -34,6 +34,7 @@ const config: Config = {
       'classic',
       {
         docs: {
+          sidebarCollapsible: false,
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
@@ -56,7 +57,6 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'My Site',
@@ -80,7 +80,7 @@ const config: Config = {
       ],
     },
     footer: {
-      style: 'dark',
+      style: 'light',
       links: [
         {
           title: 'Полезные ссылки',
