@@ -42,3 +42,13 @@ export const mainStaff = [
         position: "специалист по УМР, сотрудник деканата",
     },
 ];
+
+export const entryStaff = [
+    {
+        name: 'Андреев Николай Владимирович',
+        email: 'nvandreev@itmo.ru',
+        room: '2434',
+        avatar: 'https://photo.itmo.su/avatar/43dd87b4-494a-4cb1-8736-95e145c65242/cover/360/360/',
+        position: 'преподаватель, ответственный за платформу проведения тестирования',
+    },
+];
