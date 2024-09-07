@@ -40,7 +40,15 @@ sidebar_position: 4
 - [itmo.conf](https://t.me/itmoconf), [itmo.flood](https://t.me/itmoconf) - чаты, созданные студентами для студентов
 
 ## Различные приложения для взаимодействия с ИТМО:
-- my.itmo app - основное приложение my.itmo для смартфонов и планшетов:
+- my.itmo app - основное приложение my.itmo для смартфонов и планшетов (расписание, QR-пропуск, заявки, основные сервисы):
     - [Apple](https://apps.apple.com/ru/app/my-itmo/id1451816716)
     - [Android](https://play.google.com/store/apps/details?id=ru.ifmo.itmostudents&hl=ru&gl=US)
     - [HarmonyOS](https://appgallery.huawei.com/app/C105081211)
+
+- itmo.map - карта и навигатор по кампусу ИТМО, незаменимая вещь для поиска аудиторий:
+    - [Apple](https://apps.apple.com/us/app/itmo-map/id1642082361)
+    - [Android](https://play.google.com/store/apps/details?id=ru.itmo.campus)
+- ITMO/Events - одно приложение для мероприятий ИТМО (QR-билет, запись на мероприятия, отзывы о мероприятиях):
+    - [Apple](https://apps.apple.com/us/app/itmo-events/id6504566720)
+    - [Android](https://play.google.com/store/apps/details?id=ru.itmo.events)
+    - [HarmonyOS](https://appgallery.huawei.com/app/C111415781)
