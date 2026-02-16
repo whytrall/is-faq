@@ -12,6 +12,7 @@ const config: Config = {
 
   organizationName: 'whytrall',
   projectName: 'is-faq',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
