@@ -10,7 +10,7 @@ sidebar_position: 3
 import Person from '@site/src/components/person';
 import { mainStaff } from '@site/src/utils/staff';
 
-{mainStaff.map(person => <Person {...person}/>)}
+{mainStaff.map(person => <Person key={person.email} {...person}/>)}
 
 ## Студенческий офис (Студофис, СО)
 

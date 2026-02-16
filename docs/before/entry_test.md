@@ -59,7 +59,7 @@
 import Person from '@site/src/components/person';
 import { entryStaff } from '@site/src/utils/staff';
 
-{entryStaff.map(person => <Person {...person}/>)}
+{entryStaff.map(person => <Person key={person.email} {...person}/>)}
 
 ## Английский язык
 
