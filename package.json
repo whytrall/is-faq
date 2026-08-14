@@ -2,6 +2,7 @@
   "name": "is-faq",
   "version": "0.0.0",
   "private": true,
+  "packageManager": "yarn@4.18.0",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
