@@ -4,6 +4,7 @@ import starlight from "@astrojs/starlight";
 
 export default defineConfig({
   base: "/",
+  site: "https://faq.itmo.is",
   trailingSlash: "never",
   integrations: [
     starlight({
@@ -64,6 +65,7 @@ export default defineConfig({
           items: [{ autogenerate: { directory: "life" } }],
         },
       ],
+      customCss: ["./src/styles/custom.css"],
     }),
   ],
 });
