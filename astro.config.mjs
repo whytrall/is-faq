@@ -4,6 +4,7 @@ import starlight from "@astrojs/starlight";
 
 export default defineConfig({
   base: "/",
+  trailingSlash: "never",
   integrations: [
     starlight({
       title: "IS FAQ",
