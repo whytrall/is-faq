@@ -3,7 +3,7 @@
     "version": 9
   },
   "workspaces": {
-    "is-faq": "4c6fc9f0d5f03ea52656e2bb461e3437f8e6e302a62253702d457d1a9576304b65be25ae3e8f8e114bb598cef1a328f42365fcb16d4966d964708d3687d343c2"
+    "is-faq": "33952b4cd531993fb6530653261f02bbd40499da2352862205c3631bf483cfe118c886a2b13d68e63cc9b8d06a55b3f521b6b400d0acfdad44a04b5154d47eea"
   },
   "entries": {
     "@astrojs/compiler@npm:^2.9.1": {
@@ -1586,6 +1586,13 @@
       "resolution": {
         "resolution": "@jridgewell/sourcemap-codec@npm:1.5.5",
         "version": "1.5.5"
+      }
+    },
+    "@material/material-color-utilities@npm:0.4.0": {
+      "checksum": "1124c62aac1ce336fcd3d558d4815dec224fcc8e46c2796dd0cb951c3a0e1adbfc983cc49306fec61707308298718601c850ed93f42bb4f28ddf903e1a6ceaf3",
+      "resolution": {
+        "resolution": "@material/material-color-utilities@npm:0.4.0",
+        "version": "0.4.0"
       }
     },
     "@mdx-js/mdx@npm:^3.1.1": {
@@ -5800,6 +5807,20 @@
       "resolution": {
         "resolution": "space-separated-tokens@npm:2.0.2",
         "version": "2.0.2"
+      }
+    },
+    "starlight-theme-md3@npm:^0.2.1": {
+      "checksum": "abc2707a2d3d1de8c38160cd9e02b6569be5e598a6382cd4cc6b13106ddc0a81c84e9135c90eda5dda997cd3391458ff4cc9562135725c3c402248f4d5ea5cd8",
+      "resolution": {
+        "resolution": "starlight-theme-md3@npm:0.2.1",
+        "version": "0.2.1",
+        "dependencies": {
+          "@material/material-color-utilities": "0.4.0"
+        },
+        "peerDependencies": {
+          "@astrojs/starlight": ">=0.41.0",
+          "astro": ">=7.0.0 <8"
+        }
       }
     },
     "stream-replace-string@npm:^2.0.0": {
