@@ -1,0 +1,2 @@
+/.yarn/**         linguist-vendored
+/.pnp.*           linguist-generated binary

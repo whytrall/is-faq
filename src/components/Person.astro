@@ -1,0 +1,99 @@
+---
+interface Props {
+  name: string;
+  avatar: string;
+  email: string;
+  room: string;
+  position: string;
+}
+
+const { name, avatar, email, room, position } = Astro.props;
+---
+
+<!-- export default function Person({name, avatar, email, room, position}) {
+  return (
+    <div className="avatar" style={{ marginBottom: '1rem' }}>
+      <img className="avatar__photo avatar__photo--xl" src={avatar} style={{ objectFit: 'cover' }} />
+      <div className="avatar__intro">
+        <div className="avatar__name">{name}</div>
+        <span className="avatar__subtitle"><a href={"mailto:" + email}>{email}</a>, ауд. {room}</span>
+        <small className="avatar__subtitle">{position}</small>
+      </div>
+    </div>
+  );
+} -->
+<div class="list-item">
+  <div class="leading">
+    <div class="avatar">
+      <img src={avatar} />
+    </div>
+  </div>
+  <div class="content">
+    <span class="headline-text">{name}</span>
+    <span class="supporting-text">{position}</span>
+  </div>
+  <div>
+    <a href={`mailto:${email}`}>{email}</a>
+    <span>ауд. {room}</span>
+  </div>
+</div>
+
+<style lang="scss">
+  .list-item {
+    width: 100%;
+    min-height: 48px;
+
+    padding-inline: 16px;
+    padding-block: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 12px;
+
+    background-color: var(--sl-color-gray-6);
+
+    border-radius: 4px;
+
+    &:first-child {
+      border-start-start-radius: 16px;
+      border-start-end-radius: 16px;
+    }
+
+    &:last-child {
+      border-end-start-radius: 16px;
+      border-end-end-radius: 16px;
+    }
+  }
+
+  .avatar {
+    width: 56px;
+    height: 56px;
+    border-radius: 8px;
+    overflow: hidden;
+
+    & > img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      object-fit: cover;
+    }
+  }
+
+  .content {
+    flex-grow: 1;
+
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+    gap: 0px;
+
+    & > .headline-text {
+      font-size: 16px;
+    }
+
+    & > .supporting-text {
+      font-size: 14px;
+    }
+  }
+</style>
