@@ -6,10 +6,26 @@ title: У кого что спросить
 
 По вопросам, касающимся учебного процесса (переводы, оплата, практики, комиссии), всегда сначала стоит обращаться к сотрудникам факультета и потом при необходимости идти в другие подразделения.
 
-import Person from '@site/src/components/person';
-import { mainStaff } from '@site/src/utils/staff';
+{/* // import Person from '@site/src/components/person'; */}
+{/* // import { mainStaff } from '@site/src/utils/staff'; */}
 
-{mainStaff.map(person => <Person key={person.email} {...person}/>)}
+{/* {mainStaff.map(person => <Person key={person.email} {...person}/>)} */}
+
+import { getCollection } from "astro:content";
+import Person from "../../components/Person.astro";
+
+export const mainStaff = await getCollection("staff", (entry) =>
+  entry.id.startsWith("main/"),
+);
+
+<div
+  class="not-content"
+  style="display: flex; flex-direction: column; align-items: stretch; gap: 2px;"
+>
+  {mainStaff.map(({ data }) => (
+    <Person {...data} />
+  ))}
+</div>
 
 ## Студенческий офис (Студофис, СО)
 

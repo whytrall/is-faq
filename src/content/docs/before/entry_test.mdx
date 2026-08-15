@@ -58,10 +58,26 @@ title: Распределительные тестирования
 
 Контакты:
 
-import Person from '@site/src/components/person';
-import { entryStaff } from '@site/src/utils/staff';
+{/* // import Person from '@site/src/components/person'; */}
+{/* // import { entryStaff } from '@site/src/utils/staff'; */}
 
-{entryStaff.map(person => <Person key={person.email} {...person}/>)}
+{/* // {entryStaff.map(person => <Person key={person.email} {...person}/>)} */}
+
+import { getCollection } from "astro:content";
+import Person from "../../../components/Person.astro";
+
+export const entryStaff = await getCollection("staff", (entry) =>
+  entry.id.startsWith("entry/"),
+);
+
+<div
+  class="not-content"
+  style="display: flex; flex-direction: column; align-items: stretch; gap: 2px;"
+>
+  {entryStaff.map(({ data }) => (
+    <Person {...data} />
+  ))}
+</div>
 
 ## Английский язык
 

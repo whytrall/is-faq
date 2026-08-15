@@ -6,12 +6,20 @@ export default defineConfig({
   base: "/",
   site: "https://faq.itmo.is",
   trailingSlash: "never",
+  vite: {
+    css: {
+      transformer: "lightningcss",
+    },
+  },
   integrations: [
     starlight({
       title: "IS FAQ",
       description: "Неофициальный FAQ по ИТМО",
       favicon: "/favicon.ico",
       defaultLocale: "ru",
+      editLink: {
+        baseUrl: "https://github.com/whytrall/is-faq/blob/master/",
+      },
       social: [
         {
           icon: "github",

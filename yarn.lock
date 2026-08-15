@@ -3,7 +3,7 @@
     "version": 9
   },
   "workspaces": {
-    "is-faq": "82905acd922b583c3990147b277e6ea454bb7e18c071512b80c2f9361bed2d36cbdc0ae3038b5296363492f927473a56c84975f4b78e4f8dec9540979146f78e"
+    "is-faq": "4c6fc9f0d5f03ea52656e2bb461e3437f8e6e302a62253702d457d1a9576304b65be25ae3e8f8e114bb598cef1a328f42365fcb16d4966d964708d3687d343c2"
   },
   "entries": {
     "@astrojs/compiler@npm:^2.9.1": {
@@ -1571,6 +1571,16 @@
         }
       }
     },
+    "@isaacs/fs-minipass@npm:^4.0.0": {
+      "checksum": "cf2f94cb915c2d0adb74ddfae869c9872304178b52d4426c34c268676a9f84d138a5cbdc5d5a75ea5148e53c9ded1c649b5d006faef20397aa2f6e86e215037c",
+      "resolution": {
+        "resolution": "@isaacs/fs-minipass@npm:4.0.1",
+        "version": "4.0.1",
+        "dependencies": {
+          "minipass": "^7.0.4"
+        }
+      }
+    },
     "@jridgewell/sourcemap-codec@npm:^1.5.5": {
       "checksum": "97c473678049224e9d8b37ee8d664e1f6d5f1a6ea7b7dbab03def33b9c7d4ea7c958bb6bacf5185d1fa2e97b45e6f05e4961eeccdaf077158b38f51ad714fdf2",
       "resolution": {
@@ -1742,6 +1752,244 @@
       "resolution": {
         "resolution": "@pagefind/windows-x64@npm:1.5.2",
         "version": "1.5.2",
+        "requirements": {
+          "cpu": [
+            "x64"
+          ],
+          "os": [
+            "win32"
+          ]
+        }
+      }
+    },
+    "@parcel/watcher@npm:^2.4.1": {
+      "checksum": "9b2cdf5fda1a5004064df367cef0b143d1507bc9b1b3da21450e48f57ec177c21bf43043d2b69cb50690366d9527a413a0b29c6dd0661b8b45739cdf28b03059",
+      "resolution": {
+        "resolution": "@parcel/watcher@npm:2.6.0",
+        "version": "2.6.0",
+        "dependencies": {
+          "@parcel/watcher-android-arm64": "2.6.0",
+          "@parcel/watcher-darwin-arm64": "2.6.0",
+          "@parcel/watcher-darwin-x64": "2.6.0",
+          "@parcel/watcher-freebsd-x64": "2.6.0",
+          "@parcel/watcher-linux-arm-glibc": "2.6.0",
+          "@parcel/watcher-linux-arm-musl": "2.6.0",
+          "@parcel/watcher-linux-arm64-glibc": "2.6.0",
+          "@parcel/watcher-linux-arm64-musl": "2.6.0",
+          "@parcel/watcher-linux-x64-glibc": "2.6.0",
+          "@parcel/watcher-linux-x64-musl": "2.6.0",
+          "@parcel/watcher-win32-arm64": "2.6.0",
+          "@parcel/watcher-win32-x64": "2.6.0",
+          "detect-libc": "^2.0.3",
+          "is-glob": "^4.0.3",
+          "node-addon-api": "^7.0.0",
+          "node-gyp": "*",
+          "picomatch": "^4.0.4"
+        },
+        "optionalDependencies": [
+          "@parcel/watcher-android-arm64",
+          "@parcel/watcher-darwin-arm64",
+          "@parcel/watcher-darwin-x64",
+          "@parcel/watcher-freebsd-x64",
+          "@parcel/watcher-linux-arm-glibc",
+          "@parcel/watcher-linux-arm-musl",
+          "@parcel/watcher-linux-arm64-glibc",
+          "@parcel/watcher-linux-arm64-musl",
+          "@parcel/watcher-linux-x64-glibc",
+          "@parcel/watcher-linux-x64-musl",
+          "@parcel/watcher-win32-arm64",
+          "@parcel/watcher-win32-x64"
+        ]
+      }
+    },
+    "@parcel/watcher-android-arm64@npm:2.6.0": {
+      "checksum": null,
+      "resolution": {
+        "resolution": "@parcel/watcher-android-arm64@npm:2.6.0",
+        "version": "2.6.0",
+        "requirements": {
+          "cpu": [
+            "arm64"
+          ],
+          "os": [
+            "android"
+          ]
+        }
+      }
+    },
+    "@parcel/watcher-darwin-arm64@npm:2.6.0": {
+      "checksum": null,
+      "resolution": {
+        "resolution": "@parcel/watcher-darwin-arm64@npm:2.6.0",
+        "version": "2.6.0",
+        "requirements": {
+          "cpu": [
+            "arm64"
+          ],
+          "os": [
+            "darwin"
+          ]
+        }
+      }
+    },
+    "@parcel/watcher-darwin-x64@npm:2.6.0": {
+      "checksum": null,
+      "resolution": {
+        "resolution": "@parcel/watcher-darwin-x64@npm:2.6.0",
+        "version": "2.6.0",
+        "requirements": {
+          "cpu": [
+            "x64"
+          ],
+          "os": [
+            "darwin"
+          ]
+        }
+      }
+    },
+    "@parcel/watcher-freebsd-x64@npm:2.6.0": {
+      "checksum": null,
+      "resolution": {
+        "resolution": "@parcel/watcher-freebsd-x64@npm:2.6.0",
+        "version": "2.6.0",
+        "requirements": {
+          "cpu": [
+            "x64"
+          ],
+          "os": [
+            "freebsd"
+          ]
+        }
+      }
+    },
+    "@parcel/watcher-linux-arm-glibc@npm:2.6.0": {
+      "checksum": null,
+      "resolution": {
+        "resolution": "@parcel/watcher-linux-arm-glibc@npm:2.6.0",
+        "version": "2.6.0",
+        "requirements": {
+          "cpu": [
+            "arm"
+          ],
+          "os": [
+            "linux"
+          ],
+          "libc": [
+            "glibc"
+          ]
+        }
+      }
+    },
+    "@parcel/watcher-linux-arm-musl@npm:2.6.0": {
+      "checksum": null,
+      "resolution": {
+        "resolution": "@parcel/watcher-linux-arm-musl@npm:2.6.0",
+        "version": "2.6.0",
+        "requirements": {
+          "cpu": [
+            "arm"
+          ],
+          "os": [
+            "linux"
+          ],
+          "libc": [
+            "musl"
+          ]
+        }
+      }
+    },
+    "@parcel/watcher-linux-arm64-glibc@npm:2.6.0": {
+      "checksum": null,
+      "resolution": {
+        "resolution": "@parcel/watcher-linux-arm64-glibc@npm:2.6.0",
+        "version": "2.6.0",
+        "requirements": {
+          "cpu": [
+            "arm64"
+          ],
+          "os": [
+            "linux"
+          ],
+          "libc": [
+            "glibc"
+          ]
+        }
+      }
+    },
+    "@parcel/watcher-linux-arm64-musl@npm:2.6.0": {
+      "checksum": null,
+      "resolution": {
+        "resolution": "@parcel/watcher-linux-arm64-musl@npm:2.6.0",
+        "version": "2.6.0",
+        "requirements": {
+          "cpu": [
+            "arm64"
+          ],
+          "os": [
+            "linux"
+          ],
+          "libc": [
+            "musl"
+          ]
+        }
+      }
+    },
+    "@parcel/watcher-linux-x64-glibc@npm:2.6.0": {
+      "checksum": null,
+      "resolution": {
+        "resolution": "@parcel/watcher-linux-x64-glibc@npm:2.6.0",
+        "version": "2.6.0",
+        "requirements": {
+          "cpu": [
+            "x64"
+          ],
+          "os": [
+            "linux"
+          ],
+          "libc": [
+            "glibc"
+          ]
+        }
+      }
+    },
+    "@parcel/watcher-linux-x64-musl@npm:2.6.0": {
+      "checksum": null,
+      "resolution": {
+        "resolution": "@parcel/watcher-linux-x64-musl@npm:2.6.0",
+        "version": "2.6.0",
+        "requirements": {
+          "cpu": [
+            "x64"
+          ],
+          "os": [
+            "linux"
+          ],
+          "libc": [
+            "musl"
+          ]
+        }
+      }
+    },
+    "@parcel/watcher-win32-arm64@npm:2.6.0": {
+      "checksum": null,
+      "resolution": {
+        "resolution": "@parcel/watcher-win32-arm64@npm:2.6.0",
+        "version": "2.6.0",
+        "requirements": {
+          "cpu": [
+            "arm64"
+          ],
+          "os": [
+            "win32"
+          ]
+        }
+      }
+    },
+    "@parcel/watcher-win32-x64@npm:2.6.0": {
+      "checksum": null,
+      "resolution": {
+        "resolution": "@parcel/watcher-win32-x64@npm:2.6.0",
+        "version": "2.6.0",
         "requirements": {
           "cpu": [
             "x64"
@@ -2213,6 +2461,13 @@
         "version": "1.3.3"
       }
     },
+    "abbrev@npm:^5.0.0": {
+      "checksum": "564ce9278dbeb3bba0562b5feebf08f01414b70794e8ee001c6ab693fa79c1007dbaccaf4ba2b4a769dae313408041641a5de932cb110237819239c82f7cd436",
+      "resolution": {
+        "resolution": "abbrev@npm:5.0.0",
+        "version": "5.0.0"
+      }
+    },
     "acorn@npm:^8.0.0, acorn@npm:^8.16.0": {
       "checksum": "19e7fe82eda8f6ed20082773f3f50a98633c19c92468a9b338f9a640173d75aec386b83f0c4b1a53216561f350469e553243d5d012e9cd80d2d087e8dd4d49da",
       "resolution": {
@@ -2454,6 +2709,13 @@
         "dependencies": {
           "readdirp": "^5.0.0"
         }
+      }
+    },
+    "chownr@npm:^3.0.0": {
+      "checksum": "dc3e775a29261ccd3c18b9a17e9d4810cb940abda2b37f093ca882407b3c0598abd0015357d9a0ef23b2fecafe91dec96269de12083d4d6763e30d6321541eeb",
+      "resolution": {
+        "resolution": "chownr@npm:3.0.0",
+        "version": "3.0.0"
       }
     },
     "ci-info@npm:^4.4.0": {
@@ -2736,6 +2998,13 @@
         "version": "6.0.1"
       }
     },
+    "env-paths@npm:^2.2.0": {
+      "checksum": "ef9d5d8c551e5d778a36055b8196e85baccb8345ea8234b4baba250a9bbf9b841f130df56185e3e3ce6a3dc2a7d98e4827206cc1607e86a2f5f335b29beefac9",
+      "resolution": {
+        "resolution": "env-paths@npm:2.2.1",
+        "version": "2.2.1"
+      }
+    },
     "es-module-lexer@npm:^2.0.0": {
       "checksum": "58ad628e2c5f0a0bfe0ef78e1339e46052b268e504e0f3e8fcea0bb1850dcdfa2e66f15b44e6cb3c04051dec7094be86016deb11263a31f75cbd7ab34f877a45",
       "resolution": {
@@ -2920,6 +3189,13 @@
         "version": "5.0.4"
       }
     },
+    "exponential-backoff@npm:^3.1.1": {
+      "checksum": "74d4db3572ce4af46e038920afe07617eb3d0fbb0ef0388d5be3b2c6068a6cac12d68565d8b8f46edb5f5b83c93b269244962165e9cc70f12d9d4dceee0b62d3",
+      "resolution": {
+        "resolution": "exponential-backoff@npm:3.1.3",
+        "version": "3.1.3"
+      }
+    },
     "expressive-code@npm:^0.44.1": {
       "checksum": "ca2eaf69ed7ea704938e52fff07bf15130e479a1bc2334ec70b852e9616e85303e7f0d147e423554552ff1856502e213d594682627155281682664858d807e67",
       "resolution": {
@@ -3037,6 +3313,13 @@
       "resolution": {
         "resolution": "github-slugger@npm:2.0.0",
         "version": "2.0.0"
+      }
+    },
+    "graceful-fs@npm:^4.2.6": {
+      "checksum": "6ceec34498986a588226b4358cc8fa3d0132f391cd2fce25c4984059b6e2c80b651f0e7ec9c150197047f55f296209895393e2912667ef27c61c3fdcad81fc37",
+      "resolution": {
+        "resolution": "graceful-fs@npm:4.2.11",
+        "version": "4.2.11"
       }
     },
     "h3@npm:^1.15.10": {
@@ -3403,6 +3686,13 @@
         ]
       }
     },
+    "immutable@npm:^5.1.5": {
+      "checksum": "5f580007e008633aa615aa16ff512933b9bde393dd1b5c15cdf679ba6126f1f5592c76f378f9f81bff6fb8394c3e1cd7f616f843225c99a2c3e6cc105973d75f",
+      "resolution": {
+        "resolution": "immutable@npm:5.1.9",
+        "version": "5.1.9"
+      }
+    },
     "inline-style-parser@npm:0.2.7": {
       "checksum": "1dc09b775a844c4a30f246088da8ff0cc042365a2fc5fc456be2878434c4a80b0ba968f02055441d6cb8d9f418cbbd468ee6b6f08d78ea11c95a5fc3340bacdc",
       "resolution": {
@@ -3449,6 +3739,23 @@
         "version": "4.0.0"
       }
     },
+    "is-extglob@npm:^2.1.1": {
+      "checksum": "92716c4dec4f33908cb10e0c562e7fe1e9c98b381b9394956b75499e7fbf5a97f0cede84e1e7b851b13495c14aab6f87b389cc6651d1489ec829b23224dcf2a4",
+      "resolution": {
+        "resolution": "is-extglob@npm:2.1.1",
+        "version": "2.1.1"
+      }
+    },
+    "is-glob@npm:^4.0.3": {
+      "checksum": "545304823936a20725a6dbd8a6f7ddbf9d980bca5405673cdd9ee69818e87eeddb2595e6ea7539820e4835bb4e2ca713451555f4416612399a50fdbdc159fa5e",
+      "resolution": {
+        "resolution": "is-glob@npm:4.0.3",
+        "version": "4.0.3",
+        "dependencies": {
+          "is-extglob": "^2.1.1"
+        }
+      }
+    },
     "is-hexadecimal@npm:^2.0.0": {
       "checksum": "ec8283b52fa06c6745d062c5c8a578c9fc5974bcbc34f22c35016da6b47a9765546b8e98a56ba71739f735b8a02994942ed0feb73f72d81fc4e85860b4169ff6",
       "resolution": {
@@ -3461,6 +3768,13 @@
       "resolution": {
         "resolution": "is-plain-obj@npm:4.1.0",
         "version": "4.1.0"
+      }
+    },
+    "isexe@npm:^4.0.0": {
+      "checksum": "86147d8f37f283c3537f3990bc09e9442bfe3d26f3fe7923e6419ad7d32f0675e5e696272b3fbe470e307e25bc7a8a032707faf39720d162805727d76611ec56",
+      "resolution": {
+        "resolution": "isexe@npm:4.0.0",
+        "version": "4.0.0"
       }
     },
     "js-yaml@npm:^4.1.1, js-yaml@npm:^4.3.0": {
@@ -4525,6 +4839,23 @@
         "version": "2.0.2"
       }
     },
+    "minipass@npm:^7.0.4, minipass@npm:^7.1.2": {
+      "checksum": "8beb8a300452dec7418871e228bb303d5f5919c71d7c49bd02edfa919017708381995029dcafe710195a1864ef12286d3442339c6f7419d36049ff3c2b63775b",
+      "resolution": {
+        "resolution": "minipass@npm:7.1.3",
+        "version": "7.1.3"
+      }
+    },
+    "minizlib@npm:^3.1.0": {
+      "checksum": "fa97411dcb7361dcfd61cf78577137dbc2c6aa7e8d6862db7c2614bcbdc549a3d66b7334643083a0c9953e4539a2eeed3692b4fd1a652d6cec855d8c211a0607",
+      "resolution": {
+        "resolution": "minizlib@npm:3.1.0",
+        "version": "3.1.0",
+        "dependencies": {
+          "minipass": "^7.1.2"
+        }
+      }
+    },
     "mrmime@npm:^2.0.1": {
       "checksum": "4ff7fba67a8ff0e69c96891880f1d7e61e8e3614e6a04ff9a11a2b2c3d5a2b86c20a44ec9aecb459480b55e801e88eae538dd8f635e53de945e5847ccd75d6c7",
       "resolution": {
@@ -4563,6 +4894,16 @@
         }
       }
     },
+    "node-addon-api@npm:^7.0.0": {
+      "checksum": "93f02ba5d56e877ba8be9d475c769ac227a2ce7ef9a96606ce254874a25cf7305e411f06b9d7a9ee1a0c507656491c220ec9bf4c5bcaa8abf8fa50559af464a2",
+      "resolution": {
+        "resolution": "node-addon-api@npm:7.1.1",
+        "version": "7.1.1",
+        "dependencies": {
+          "node-gyp": "*"
+        }
+      }
+    },
     "node-fetch-native@npm:^1.6.7": {
       "checksum": "2fb461e94e3aa2daf84da7c5b2bf3fa04784fbda9aad0d9f1bca7ad697c630df2330a6a1db8184ffa122a7e7bc0bf2ce29b9af0469aad22e632ad31259f2dba3",
       "resolution": {
@@ -4570,11 +4911,40 @@
         "version": "1.6.7"
       }
     },
+    "node-gyp@npm:*": {
+      "checksum": "f64b3992a53bf6d98a4bd16ca31fc2601ddd146a3ad1699a3e290bea4854140f6ab4c048545e8f8d30725cfb5e6275f53b04e388bfd78c1c442644f9926e22ca",
+      "resolution": {
+        "resolution": "node-gyp@npm:13.0.1",
+        "version": "13.0.1",
+        "dependencies": {
+          "env-paths": "^2.2.0",
+          "exponential-backoff": "^3.1.1",
+          "graceful-fs": "^4.2.6",
+          "nopt": "^10.0.0",
+          "proc-log": "^7.0.0",
+          "semver": "^7.3.5",
+          "tar": "^7.5.4",
+          "tinyglobby": "^0.2.12",
+          "undici": "^8.4.1",
+          "which": "^7.0.0"
+        }
+      }
+    },
     "node-mock-http@npm:^1.0.4": {
       "checksum": "974e267b78c40a059e5b7fc6e1c093e4243aba15dd752f3b697fb121036126979a0c7d342c5cea601137e2e6a425cbd783ffd5dd4c9722514d66ee2c8ee4da33",
       "resolution": {
         "resolution": "node-mock-http@npm:1.0.5",
         "version": "1.0.5"
+      }
+    },
+    "nopt@npm:^10.0.0": {
+      "checksum": "ab5c4d743b1af4b65f213fe42fd59936b3a9e2488eb13bf3f0159e937e36c187a230af29e9113eb70a2ceac161b6c1171b25cbe1a27ce16dc399b730ebaf1241",
+      "resolution": {
+        "resolution": "nopt@npm:10.0.1",
+        "version": "10.0.1",
+        "dependencies": {
+          "abbrev": "^5.0.0"
+        }
       }
     },
     "normalize-path@npm:^3.0.0": {
@@ -4828,6 +5198,13 @@
       "resolution": {
         "resolution": "prismjs@npm:1.30.0",
         "version": "1.30.0"
+      }
+    },
+    "proc-log@npm:^7.0.0": {
+      "checksum": "9cd07afabb41818795c42ba3bf43ca956ec74d815e8a3aa7bd2344e6b3f9a1658797aaab9037c29049a1c15c0bcc77eb9c0da267c5ad1ebe47ff0d79f5c8700d",
+      "resolution": {
+        "resolution": "proc-log@npm:7.0.0",
+        "version": "7.0.0"
       }
     },
     "process-ancestry@npm:^0.1.0": {
@@ -5217,6 +5594,22 @@
         "version": "0.0.15"
       }
     },
+    "sass@npm:^1.102.0": {
+      "checksum": "b325fc740235fcd711142fef4539a522e5487d2a0187ce3dd55e9acd79f79d0f58b0068855fba9f03f0d3d78f0880e721e28d45f29879856e971266a2f88b5aa",
+      "resolution": {
+        "resolution": "sass@npm:1.102.0",
+        "version": "1.102.0",
+        "dependencies": {
+          "@parcel/watcher": "^2.4.1",
+          "chokidar": "^5.0.0",
+          "immutable": "^5.1.5",
+          "source-map-js": ">=0.6.2 <2.0.0"
+        },
+        "optionalDependencies": [
+          "@parcel/watcher"
+        ]
+      }
+    },
     "sass-formatter@npm:^0.7.6": {
       "checksum": "5e95b03ea7ef9fc8cb6aaa2ac641fbecf3c9a9126a66246783f3be527b5964004f55b613b42e00d37c5e1515de35ececcc52d7adc0d18bccf432f498025d5ada",
       "resolution": {
@@ -5267,7 +5660,7 @@
         "version": "1.6.1"
       }
     },
-    "semver@npm:^7.7.4, semver@npm:^7.8.5": {
+    "semver@npm:^7.3.5, semver@npm:^7.7.4, semver@npm:^7.8.5": {
       "checksum": "bb502cc3e9b1bcb2d3614459e10f0410f523ffaf6f3c2cdd7634f71553e45a3e444c8820df9bf53296e7d9c1ea82d0496cab4cc8d26a32924966461b246c35a0",
       "resolution": {
         "resolution": "semver@npm:7.8.5",
@@ -5395,7 +5788,7 @@
         "version": "0.7.6"
       }
     },
-    "source-map-js@npm:^1.0.1, source-map-js@npm:^1.2.1": {
+    "source-map-js@npm:>=0.6.2 <2.0.0, source-map-js@npm:^1.0.1, source-map-js@npm:^1.2.1": {
       "checksum": "ad34b90e5974e6039ea2b07bbf236ef7a82e4f5958777c3919e38a74b044458e5608dce9101d54cc950515490be928cae8e18e0cfb1c52e2438d40b92f9d58df",
       "resolution": {
         "resolution": "source-map-js@npm:1.2.1",
@@ -5473,6 +5866,20 @@
         }
       }
     },
+    "tar@npm:^7.5.4": {
+      "checksum": "c25b47ebaac79e6464d50496912f16161efbdd4e73ec6dbe676ac6665e224fa4b1a21632eb914ef8bfbddae078f47fa9bcc3d65d411e0792538c08f3dc95cb40",
+      "resolution": {
+        "resolution": "tar@npm:7.5.22",
+        "version": "7.5.22",
+        "dependencies": {
+          "@isaacs/fs-minipass": "^4.0.0",
+          "chownr": "^3.0.0",
+          "minipass": "^7.1.2",
+          "minizlib": "^3.1.0",
+          "yallist": "^5.0.0"
+        }
+      }
+    },
     "tiny-inflate@npm:^1.0.3": {
       "checksum": "d50476eb70ce4f3b56723daa9f60a71c4cee4a6dbdee3ab67c066a292b9f626ea2429c2bcede855083e89649ea5129a29ac4f0f6474664b40b1e5cd8213a3605",
       "resolution": {
@@ -5494,7 +5901,7 @@
         "version": "1.3.0"
       }
     },
-    "tinyglobby@npm:^0.2.15, tinyglobby@npm:^0.2.17": {
+    "tinyglobby@npm:^0.2.12, tinyglobby@npm:^0.2.15, tinyglobby@npm:^0.2.17": {
       "checksum": "aca0850156edcdebd1d033c07693cd84aa49b2d28db38bf71dbc8a89f15f32e302d13ca450e822e060879e6bf843cf2adfdb43ba3a70694cbc7f023e0dd3cb82",
       "resolution": {
         "resolution": "tinyglobby@npm:0.2.17",
@@ -5547,7 +5954,7 @@
         "version": "0.1.3"
       }
     },
-    "undici@npm:^8.0.0": {
+    "undici@npm:^8.0.0, undici@npm:^8.4.1": {
       "checksum": "71879596f15f2eb1f1579deec89d724706ec1e01bb881fe56696c4204e67ed2c0fa60dee13518db532dc450aef98dea138c3919c5d9d3de06a6eecf0e98a5a7a",
       "resolution": {
         "resolution": "undici@npm:8.10.0",
@@ -5874,11 +6281,28 @@
         "version": "2.0.1"
       }
     },
+    "which@npm:^7.0.0": {
+      "checksum": "c27a9bf4ce04e20176a410cf2ae1b30dc1936fce5d5fbcc2583f2a70edcd3203f6b902877c71982c06258320695dd7ae93fab07268aaf811d5e39f03cd62acd3",
+      "resolution": {
+        "resolution": "which@npm:7.0.0",
+        "version": "7.0.0",
+        "dependencies": {
+          "isexe": "^4.0.0"
+        }
+      }
+    },
     "xxhash-wasm@npm:^1.1.0": {
       "checksum": "ca6b8cd905ed74de169b7dfcc746d38249e6fa6b986031c9f04282beecb4d06eb65e0bc4dfaba367c16a1a1d25b131174b6e7e10f4e338c1f39b73355fa0c1f6",
       "resolution": {
         "resolution": "xxhash-wasm@npm:1.1.0",
         "version": "1.1.0"
+      }
+    },
+    "yallist@npm:^5.0.0": {
+      "checksum": "6e142cee3f3b5e68f8fcddf04ed45792a32f3a1d32742097b4fe1101094c9340eb19befed4a5efb22581d9f488c726ef21b8b200f3d332f81509e638049476e2",
+      "resolution": {
+        "resolution": "yallist@npm:5.0.0",
+        "version": "5.0.0"
       }
     },
     "yargs-parser@npm:^22.0.0": {
