@@ -31,9 +31,9 @@ import { mainStaff } from '@site/src/utils/staff';
 
 - Почта: [so@itmo.ru](mailto:so@itmo.ru);
 - TG-канал: [@itmolnia](https://t.me/itmolnia);
-- Сайт: [student.itmo.ru](https://student.itmo.ru);
-- Телефон: [+7 (812) 607-04-74](tel:+78126070474);
-- Прийти ногами: Кронверкский пр., д. 49, ауд. 1305 (в коворкинге на третьем этаже, после входа прямо до упора и направо) / ул. Ломоносова, д. 9, ауд. 1400.
+- Сайт: [student.itmo.ru](https://student.itmo.ru/ru/student_services_office);
+- Телефон: [+7 (812) 480-90-00](tel:+78124809000);
+- Прийти ногами: Кронверкский пр., д. 49, ауд. 1106 (в главном холе дверь параллельно турникам около гардероба) / ул. Ломоносова, д. 9, ауд. 1400.
 
 ## ITMO.STUDENTS
 
@@ -48,7 +48,8 @@ import { mainStaff } from '@site/src/utils/staff';
 Контакты:
 
 - ВК: [@itmostudents](https://vk.com/itmostudents);
-- Почта: [ursi@itmo.ru](mailto:ursi@itmo.ru).
+- Студенческие инициативы и Совет обучающихся: [student@itmo.ru](mailto:student@itmo.ru);
+- Клубы и организация мероприятий (Офис молодёжных проектов): [omp@itmo.ru](mailto:omp@itmo.ru).
 
 ## Департамент образовательной деятельности (ДОД)
 
@@ -88,6 +89,7 @@ import { mainStaff } from '@site/src/utils/staff';
 - Почта: [fltc@itmo.ru](mailto:fltc@itmo.ru);
 - Сайт: [languages.itmo.ru](https://languages.itmo.ru/)
 - Moodle: [fltc.itmo.ru/m](https://fltc.itmo.ru/m);
+- Телефон: [+7 (812) 480-04-30](tel:+78124800430);
 - Прийти ногами: ул. Ломоносова, д. 9, ауд. 3208.
 
 ## Отдел миграционного учета
@@ -103,6 +105,7 @@ import { mainStaff } from '@site/src/utils/staff';
 
 Контакты:
 
-- Почта: [dsnekrasova@itmo.ru](mailto:dsnekrasova@itmo.ru);
-- Телефон: [+7 (812) 315-05-21](tel:+78123150521);
-- Прийти ногами: ул. Ломоносова, д. 9, ауд. 2139d.
+- Почта: [omu@itmo.ru](mailto:omu@itmo.ru);
+- Телефон: [+7 (812) 480-09-17](tel:+78124800917);
+- Прийти ногами: ул. Ломоносова, д. 9, ауд. 2139d;
+- [Актуальная миграционная памятка](https://int.itmo.ru/ru/important_documents).
